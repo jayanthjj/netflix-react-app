@@ -14,7 +14,7 @@ function App() {
       <RowPost title='Action' isSmall url={action} />
       <RowPost title='Comedy' isSmall url={comedy} />
       <RowPost title='horror' isSmall url={horror} />
-      <RowPost title='Documentaries' isSmall url={documentaries} />
+//       <RowPost title='Documentaries' isSmall url={documentaries} />
     </div>
   );
 }
